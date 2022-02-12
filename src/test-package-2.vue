@@ -5,8 +5,8 @@ export default /*#__PURE__*/ defineComponent({
     name: "TestPackage2", // vue component name
     data() {
         return {
-            counter: 5,
-            initCounter: 5,
+            counter: 6,
+            initCounter: 6,
             message: {
                 action: null,
                 amount: null,
