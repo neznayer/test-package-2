@@ -6,7 +6,7 @@ export default /*#__PURE__*/ defineComponent({
     data() {
         return {
             counter: 6,
-            initCounter: 6,
+            initCounter: 10,
             message: {
                 action: null,
                 amount: null,
